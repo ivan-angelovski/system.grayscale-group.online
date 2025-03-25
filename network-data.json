@@ -1,0 +1,273 @@
+{
+  "nodes": [
+    {
+      "id": "104.21.112.1",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "system.grayscale-group.online",
+      "type": "domain",
+      "val": 1
+    },
+    {
+      "id": "1.112.21.104.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "104.21.16.1",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "1.16.21.104.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "104.21.32.1",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "1.32.21.104.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "104.21.48.1",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "1.48.21.104.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "104.21.64.1",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "1.64.21.104.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "104.21.80.1",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "1.80.21.104.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "104.21.96.1",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "1.96.21.104.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "cloudflare.com",
+      "type": "domain",
+      "val": 1
+    },
+    {
+      "id": "aliza.ns.cloudflare.com",
+      "type": "domain",
+      "val": 1
+    },
+    {
+      "id": "ernest.ns.cloudflare.com",
+      "type": "domain",
+      "val": 1
+    },
+    {
+      "id": "online",
+      "type": "domain",
+      "val": 1
+    },
+    {
+      "id": "grayscale-group.online",
+      "type": "domain",
+      "val": 1
+    },
+    {
+      "id": "http://system.grayscale-group.online/",
+      "type": "url",
+      "val": 1
+    },
+    {
+      "id": "https://system.grayscale-group.online/",
+      "type": "url",
+      "val": 1
+    },
+    {
+      "id": "104.16.0.0/12",
+      "type": "subnet",
+      "val": 1
+    },
+    {
+      "id": "104.21.0.0/19",
+      "type": "subnet",
+      "val": 1
+    },
+    {
+      "id": "104.21.112.0/20",
+      "type": "subnet",
+      "val": 1
+    },
+    {
+      "id": "5.101.159.11",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "11.159.101.5.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "45.130.41.110",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "110.41.130.45.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "185.50.27.12",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "12.27.50.185.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "45.130.41.144",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "144.41.130.45.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    },
+    {
+      "id": "45.130.41.145",
+      "type": "ip_address",
+      "val": 1
+    },
+    {
+      "id": "145.41.130.45.in-addr.arpa",
+      "type": "dns_record",
+      "val": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "system.grayscale-group.online",
+      "target": "104.21.112.1"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "1.112.21.104.in-addr.arpa"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "1.16.21.104.in-addr.arpa"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "1.32.21.104.in-addr.arpa"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "1.48.21.104.in-addr.arpa"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "1.64.21.104.in-addr.arpa"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "1.80.21.104.in-addr.arpa"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "1.96.21.104.in-addr.arpa"
+    },
+    {
+      "source": "cloudflare.com",
+      "target": "104.21.32.1"
+    },
+    {
+      "source": "cloudflare.com",
+      "target": "104.21.96.1"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "104.21.16.1"
+    },
+    {
+      "source": "ernest.ns.cloudflare.com",
+      "target": "104.21.48.1"
+    },
+    {
+      "source": "grayscale-group.online",
+      "target": "104.21.64.1"
+    },
+    {
+      "source": "http://system.grayscale-group.online/",
+      "target": "system.grayscale-group.online"
+    },
+    {
+      "source": "https://system.grayscale-group.online/",
+      "target": "system.grayscale-group.online"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "104.16.0.0/12"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "104.21.112.0/20"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "104.21.0.0/19"
+    },
+    {
+      "source": "5.101.159.11",
+      "target": "11.159.101.5.in-addr.arpa"
+    },
+    {
+      "source": "45.130.41.110",
+      "target": "110.41.130.45.in-addr.arpa"
+    },
+    {
+      "source": "185.50.27.12",
+      "target": "12.27.50.185.in-addr.arpa"
+    },
+    {
+      "source": "45.130.41.144",
+      "target": "144.41.130.45.in-addr.arpa"
+    },
+    {
+      "source": "45.130.41.145",
+      "target": "145.41.130.45.in-addr.arpa"
+    }
+  ]
+}
