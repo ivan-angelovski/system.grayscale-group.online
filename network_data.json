@@ -1,0 +1,2907 @@
+{
+  "nodes": [
+    {
+      "id": "   Domain Name: CLOUDFLARE.COM\r\n   Registry Domain ID: 1542998887_DOMAIN_COM-VRS...",
+      "type": "AFFILIATE_DOMAIN_WHOIS"
+    },
+    {
+      "id": "cloudflare.com",
+      "type": "SOURCE"
+    },
+    {
+      "id": "(c) CentralNic Ltd",
+      "type": "COMPANY_NAME"
+    },
+    {
+      "id": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "+18022274003",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "id": "+37064503378",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "id": "+37068424669",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "id": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "id": "13335",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.96.0/20",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.16.0/20",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.64.0/20",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.96.0/19",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.32.0/20",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.48.0/20",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.64.0/19",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.16.0.0/12",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.112.0/20",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.32.0/19",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.80.0/20",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.0.0/19",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.96.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.32.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.48.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.64.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.80.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.16.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.112.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "::ffff:104.21.112.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "system.grayscale-group.online",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.112.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.112.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.112.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.112.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "::ffff:104.21.16.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.16.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.16.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.16.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.16.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "::ffff:104.21.32.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.32.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.32.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.32.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.32.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "::ffff:104.21.48.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.48.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.48.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.48.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.48.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "::ffff:104.21.64.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.64.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.64.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.64.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.64.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "::ffff:104.21.80.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.80.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.80.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.80.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.80.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "::ffff:104.21.96.1",
+      "type": "SOURCE"
+    },
+    {
+      "id": "104.21.96.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.96.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.96.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "104.21.96.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "id": "108.162.194.55",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "id": "aliza.ns.cloudflare.com",
+      "type": "SOURCE"
+    },
+    {
+      "id": "108.162.195.221",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "id": "jaxson.ns.cloudflare.com",
+      "type": "SOURCE"
+    },
+    {
+      "id": "162.159.38.55",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "id": "162.159.44.221",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "id": "172.64.34.55",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "id": "172.64.35.221",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "id": "221.195.162.108.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "id": "221.35.64.172.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "id": "221.44.159.162.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "id": "37.62392363234953,-97.45856884515786",
+      "type": "PHYSICAL_COORDINATES"
+    },
+    {
+      "id": "3815 S Midco Street, Wichita, US-KS, US, 67215",
+      "type": "SOURCE"
+    },
+    {
+      "id": "37.78025515,-122.39051285942745",
+      "type": "PHYSICAL_COORDINATES"
+    },
+    {
+      "id": "37.7813933,-122.3918002",
+      "type": "PHYSICAL_COORDINATES"
+    },
+    {
+      "id": "Protect, LLC",
+      "type": "SOURCE"
+    },
+    {
+      "id": "403",
+      "type": "HTTP_CODE"
+    },
+    {
+      "id": "54930005AEI7A8KJXT52",
+      "type": "LEI"
+    },
+    {
+      "id": "55.194.162.108.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "id": "55.34.64.172.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "id": "55.38.159.162.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "id": "5601 S. 59TH STREET SUITE C, LINCOLN, US-NE, US, 68516",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "id": "7cup (Category: social)\nhttps://www.7cups.com/@helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "helveticaneue",
+      "type": "SOURCE"
+    },
+    {
+      "id": "::ffff:108.162.194.55",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "id": "::ffff:108.162.195.221",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "id": "::ffff:162.159.38.55",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "id": "::ffff:162.159.44.221",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "id": "::ffff:172.64.34.55",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "id": "::ffff:172.64.35.221",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "id": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta htt...",
+      "type": "TARGET_WEB_CONTENT"
+    },
+    {
+      "id": "Ameblo (Category: blog)\nhttps://ameblo.jp/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "ArtBreeder (Category: art)\nhttps://www.artbreeder.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Bandcamp (Category: music)\nhttps://bandcamp.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Blogspot (Category: blog)\nhttp://helveticaneue.blogspot.com",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Bluesky 2 (Category: social)\nhttps://bsky.app/profile/helveticaneue.bsky.social",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "CILN9PFNHTUVBXMYTXNJNFFXGXMH",
+      "type": "IBAN_NUMBER"
+    },
+    {
+      "id": "Canada",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "id": "Toronto, Ontario, ON, Canada, CA",
+      "type": "SOURCE"
+    },
+    {
+      "id": "Chess.com (Category: gaming)\nhttps://www.chess.com/member/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "CleanTalk Spam List [104.16.0.0/12]\nhttps://iplists.firehol.org/files/cleantalk_...",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "id": "Cloud computing",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "id": "Cloudflare Inc: https://www.cloudflare.com/",
+      "type": "PROVIDER_HOSTING"
+    },
+    {
+      "id": "Cloudflare, Inc.",
+      "type": "AFFILIATE_COMPANY_NAME"
+    },
+    {
+      "id": "Cloudflare, Inc., is an American company that provides content delivery network ...",
+      "type": "AFFILIATE_DESCRIPTION_ABSTRACT"
+    },
+    {
+      "id": "Community Adobe (Category: tech)\nhttps://community.adobe.com/t5/forums/searchpag...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "DeviantArt (Category: images)\nhttps://www.deviantart.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Disqus (Category: social)\nhttps://disqus.com/by/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "grayscale-group.online",
+      "type": "SOURCE"
+    },
+    {
+      "id": "Domain Name: grayscale-group.io\r\nRegistry Domain ID: 8199f44c050f46c1a27391a059c...",
+      "type": "SIMILARDOMAIN_WHOIS"
+    },
+    {
+      "id": "grayscale-group.io",
+      "type": "SOURCE"
+    },
+    {
+      "id": "Duolingo (Category: hobby)\nhttps://www.duolingo.com/profile/helvetica.neue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "helvetica.neue",
+      "type": "SOURCE"
+    },
+    {
+      "id": "Duolingo (Category: hobby)\nhttps://www.duolingo.com/profile/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Freedom of speech in the United States",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "id": "GOG (Category: gaming)\nhttps://www.gog.com/u/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "GitHub (Category: coding)\nhttps://github.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Habbo.com.br (Category: gaming)\nhttps://www.habbo.com.br/profile/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Helvetica Neue",
+      "type": "HUMAN_NAME"
+    },
+    {
+      "id": "Hostinger Operations, UAB",
+      "type": "DOMAIN_REGISTRAR"
+    },
+    {
+      "id": "IFTTT (Category: misc)\nhttps://ifttt.com/p/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Internet Archive User Search (Category: misc)\nhttps://archive.org/search.php?que...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Internet security",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "id": "Ivory Coast",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "id": "Kongregate (Category: gaming)\nhttps://www.kongregate.com/accounts/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Letterboxd (Category: social)\nhttps://letterboxd.com/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Linktree (Category: social)\nhttps://linktr.ee/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Lithuania",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "id": "MCName (Minecraft) (Category: gaming)\nhttps://mcname.info/en/search?q=helvetican...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "MCUUID (Minecraft) (Category: gaming)\nhttps://mcuuid.net/?q=helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Naver (Category: social)\nhttps://blog.naver.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Neocities (Category: social)\nhttps://neocities.org/site/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Networking companies of the United States",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "id": "Newgrounds (Category: gaming)\nhttps://helveticaneue.newgrounds.com/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "PhishStats [104.21.112.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "id": "PhishStats [104.21.16.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "id": "PhishStats [104.21.32.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "id": "PhishStats [104.21.48.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "id": "PhishStats [104.21.64.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "id": "PhishStats [104.21.80.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "id": "Pillowfort (Category: social)\nhttps://www.pillowfort.social/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Pinterest (Category: social)\nhttps://www.pinterest.com/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Pornhub Users (Category: xx NSFW xx)\nhttps://www.pornhub.com/users/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Poshmark (Category: shopping)\nhttps://poshmark.com/closet/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Privacy Protect, LLC",
+      "type": "COMPANY_NAME"
+    },
+    {
+      "id": "Reverse proxy",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "id": "Segoe Emoji",
+      "type": "HUMAN_NAME"
+    },
+    {
+      "id": "Snapchat (Category: social)\nhttps://www.snapchat.com/add/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "SoundCloud (Category: music)\nhttps://soundcloud.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Spotify (Category: music)\nhttps://open.spotify.com/user/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Steam (Category: gaming)\nhttps://steamcommunity.com/id/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Technology companies based in the San Francisco Bay Area",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "id": "Tele 2",
+      "type": "PROVIDER_TELCO"
+    },
+    {
+      "id": "Telegram (Category: social)\nhttps://t.me/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "TikTok (Category: social)\nhttps://www.tiktok.com/@helvetica.neue?lang=en",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "TikTok (Category: social)\nhttps://www.tiktok.com/@helveticaneue?lang=en",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Trello (Category: social)\nhttps://trello.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Twitch (Category: gaming)\nhttps://twitch.tv/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Twitter (Category: social)\nhttps://twitter.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "Ultimate Guitar (Category: hobby)\nhttps://www.ultimate-guitar.com/u/helveticaneu...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "United States",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.16.0.0/12]\nhttps://voipbl.org/check/?ip=104.16.0.0/...",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.0.0/19]\nhttps://voipbl.org/check/?ip=104.21.0.0/...",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.16.0/20]\nhttps://voipbl.org/check/?ip=104.21.16....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.32.0/19]\nhttps://voipbl.org/check/?ip=104.21.32....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.32.0/20]\nhttps://voipbl.org/check/?ip=104.21.32....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.48.0/20]\nhttps://voipbl.org/check/?ip=104.21.48....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.64.0/19]\nhttps://voipbl.org/check/?ip=104.21.64....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.64.0/20]\nhttps://voipbl.org/check/?ip=104.21.64....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.80.0/20]\nhttps://voipbl.org/check/?ip=104.21.80....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.96.0/19]\nhttps://voipbl.org/check/?ip=104.21.96....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "VoIP Blacklist (VoIPBL) [104.21.96.0/20]\nhttps://voipbl.org/check/?ip=104.21.96....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "Wattpad (Category: social)\nhttps://www.wattpad.com/user/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "XVIDEOS-profiles (Category: xx NSFW xx)\nhttps://www.xvideos.com/profiles/helveti...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "{'prefix': '104.21.112.0/20', 'ip': '104.21.112.0', 'cidr': 20, 'asns': [{'asn':...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.32.0/20', 'ip': '104.21.32.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.16.0.0/12', 'ip': '104.16.0.0', 'cidr': 12, 'asns': [{'asn': 133...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.32.0/19', 'ip': '104.21.32.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.64.0/20', 'ip': '104.21.64.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'asn': 13335, 'name': 'CLOUDFLARENET', 'description_short': 'Cloudflare, Inc.',...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.96.0/20', 'ip': '104.21.96.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.0.0/19', 'ip': '104.21.0.0', 'cidr': 19, 'asns': [{'asn': 133...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "[{'id': 11107680, 'url': 'http://worker-orange-paper-4995.ligotat737.workers.dev...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.16.0/20', 'ip': '104.21.16.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.64.0/19', 'ip': '104.21.64.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.80.0/20', 'ip': '104.21.80.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.96.0/19', 'ip': '104.21.96.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "{'prefix': '104.21.48.0/20', 'ip': '104.21.48.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "abuse@deliveryfz.top",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "[{'id': 11104125, 'url': 'http://informed.deliveryfz.top/l', 'ip': '104.21.16.1'...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "abuse@hostinger.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "abuse@hyue8.cyou",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "[{'id': 11109928, 'url': 'https://hyue8.cyou/0je9s', 'ip': '104.21.48.1', 'count...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "abuse@informed.deliveryfz.top",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "abuse@morningstar-epb.pages.dev",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "[{'id': 11104139, 'url': 'http://morningstar-epb.pages.dev/', 'ip': '104.21.80.1...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "abuse@pages.dev",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "abuse@registrar.eu",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "abuse@setshinobi.vip",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "[{'id': 11109085, 'url': 'http://setshinobi.vip/', 'ip': '104.21.112.1', 'countr...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "abuse@workuzbekiston24.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "[{'id': 11111222, 'url': 'https://workuzbekiston24.com/', 'ip': '104.21.32.1', '...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "type": "SOURCE"
+    },
+    {
+      "id": "blocklist.de [104.16.0.0/12]\nhttps://lists.blocklist.de/lists/all.txt",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "id": "cf-chl-out: n0MbJPU6u9NcRWw0tNz2zRk+7284m8aAwLQ8532gW7LSHnMGOApBcYj2gO1iV969kd72...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "cf-mitigated: challenge",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "cf-ray: 9258ed63488fe280-MRS",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "cloudflare",
+      "type": "WEBSERVER_BANNER"
+    },
+    {
+      "id": "contact@privacyprotect.org",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-U...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "cross-origin-embedder-policy: require-corp",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "cross-origin-opener-policy: same-origin",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "cross-origin-resource-policy: same-origin",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "diigo (Category: images)\nhttps://www.diigo.com/profile/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "eBay (Category: shopping)\nhttps://www.ebay.com/usr/helvetica.neue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "eBay (Category: shopping)\nhttps://www.ebay.com/usr/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "grayscale-group.online. 14400 IN NS aliza.ns.cloudflare.com.\ngrayscale-group.onl...",
+      "type": "RAW_DNS_RECORDS"
+    },
+    {
+      "id": "grayscale-group.vip",
+      "type": "SIMILARDOMAIN"
+    },
+    {
+      "id": "http://system.grayscale-group.online",
+      "type": "LINKED_URL_INTERNAL"
+    },
+    {
+      "id": "https://system.grayscale-group.online/",
+      "type": "LINKED_URL_INTERNAL"
+    },
+    {
+      "id": "hugging_face (Category: tech)\nhttps://huggingface.co/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "imgur (Category: images)\nhttps://imgur.com/user/helveticaneue/about",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "kaggle (Category: coding)\nhttps://www.kaggle.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "kik (Category: social)\nhttps://kik.me/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "nel: {\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "origin-agent-cluster: ?1",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "palnet (Category: social)\nhttps://www.palnet.io/@helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "permissions-policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),cl...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "referrer-policy: same-origin",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "registrar-abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "report-to: {\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=T4...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "scratch (Category: coding)\nhttps://scratch.mit.edu/users/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "segoe.emoji",
+      "type": "USERNAME"
+    },
+    {
+      "id": "segoeemoji",
+      "type": "USERNAME"
+    },
+    {
+      "id": "server-timing: chlray;desc=\"9258ed63488fe280\", cfL4;desc=\"?proto=TCP&rtt=6716&mi...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "id": "text/html;charset=utf-8",
+      "type": "TARGET_WEB_CONTENT_TYPE"
+    },
+    {
+      "id": "tumblr (Category: images)\nhttps://helveticaneue.tumblr.com",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "tumblr (Category: images)\nhttps://segoe.emoji.tumblr.com",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "unsplash (Category: images)\nhttps://unsplash.com/@helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "id": "workers-product@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "id": "x-content-options: nosniff",
+      "type": "WEBSERVER_STRANGEHEADER"
+    }
+  ],
+  "links": [
+    {
+      "source": "cloudflare.com",
+      "target": "   Domain Name: CLOUDFLARE.COM\r\n   Registry Domain ID: 1542998887_DOMAIN_COM-VRS...",
+      "type": "AFFILIATE_DOMAIN_WHOIS"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "(c) CentralNic Ltd",
+      "type": "COMPANY_NAME"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "+18022274003",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "+18022274003",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "+18022274003",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "+37064503378",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "+37068424669",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "source": "13335",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.96.0/20",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.16.0/20",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.64.0/20",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.96.0/19",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.32.0/20",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.48.0/20",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.64.0/19",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.16.0.0/12",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.112.0/20",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.32.0/19",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.80.0/20",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.0.0/19",
+      "target": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "104.16.0.0/12",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "104.16.0.0/12",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "104.16.0.0/12",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "104.16.0.0/12",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "104.16.0.0/12",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "104.16.0.0/12",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "104.16.0.0/12",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "104.21.0.0/19",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "::ffff:104.21.112.1",
+      "target": "104.21.112.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "104.21.112.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "104.21.112.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "104.21.112.1",
+      "type": "IP_ADDRESS"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "104.21.112.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "104.21.112.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "104.21.112.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "104.21.112.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "::ffff:104.21.16.1",
+      "target": "104.21.16.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "104.21.16.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "104.21.16.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "104.21.16.1",
+      "type": "IP_ADDRESS"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "104.21.16.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "104.21.16.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "104.21.16.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "104.21.16.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "104.21.32.0/19",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "104.21.32.0/19",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "104.21.32.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "104.21.32.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "::ffff:104.21.32.1",
+      "target": "104.21.32.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "104.21.32.1",
+      "type": "IP_ADDRESS"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "104.21.32.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "104.21.32.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "104.21.32.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "104.21.32.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "::ffff:104.21.48.1",
+      "target": "104.21.48.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "104.21.48.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "104.21.48.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "104.21.48.1",
+      "type": "IP_ADDRESS"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "104.21.48.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "104.21.48.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "104.21.48.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "104.21.48.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "104.21.64.0/19",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "104.21.64.0/19",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "104.21.64.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "104.21.64.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "::ffff:104.21.64.1",
+      "target": "104.21.64.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "104.21.64.1",
+      "type": "IP_ADDRESS"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "104.21.64.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "104.21.64.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "104.21.64.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "104.21.64.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "::ffff:104.21.80.1",
+      "target": "104.21.80.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "104.21.80.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "104.21.80.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "104.21.80.1",
+      "type": "IP_ADDRESS"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "104.21.80.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "104.21.80.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "104.21.80.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "104.21.80.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "104.21.96.0/19",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "104.21.96.0/19",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "104.21.96.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "104.21.96.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "::ffff:104.21.96.1",
+      "target": "104.21.96.0/20",
+      "type": "NETBLOCK_MEMBER"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "104.21.96.1",
+      "type": "IP_ADDRESS"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "104.21.96.1:443",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "104.21.96.1:53",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "104.21.96.1:80",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "104.21.96.1:8080",
+      "type": "TCP_PORT_OPEN"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "108.162.194.55",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "source": "jaxson.ns.cloudflare.com",
+      "target": "108.162.195.221",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.96.0/20",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.16.0/20",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.64.0/20",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.96.0/19",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.32.0/20",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.48.0/20",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.64.0/19",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.16.0.0/12",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.112.0/20",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.32.0/19",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.80.0/20",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "104.21.0.0/19",
+      "target": "13335",
+      "type": "BGP_AS_MEMBER"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "162.159.38.55",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "source": "jaxson.ns.cloudflare.com",
+      "target": "162.159.44.221",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "172.64.34.55",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "source": "jaxson.ns.cloudflare.com",
+      "target": "172.64.35.221",
+      "type": "AFFILIATE_IPADDR"
+    },
+    {
+      "source": "108.162.195.221",
+      "target": "221.195.162.108.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "source": "172.64.35.221",
+      "target": "221.35.64.172.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "source": "162.159.44.221",
+      "target": "221.44.159.162.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "source": "3815 S Midco Street, Wichita, US-KS, US, 67215",
+      "target": "37.62392363234953,-97.45856884515786",
+      "type": "PHYSICAL_COORDINATES"
+    },
+    {
+      "source": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "target": "37.78025515,-122.39051285942745",
+      "type": "PHYSICAL_COORDINATES"
+    },
+    {
+      "source": "101 Townsend Street, San Francisco, CA, 94107, US",
+      "target": "37.7813933,-122.3918002",
+      "type": "PHYSICAL_COORDINATES"
+    },
+    {
+      "source": "Protect, LLC",
+      "target": "3815 S Midco Street, Wichita, US-KS, US, 67215",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "403",
+      "type": "HTTP_CODE"
+    },
+    {
+      "source": "Protect, LLC",
+      "target": "54930005AEI7A8KJXT52",
+      "type": "LEI"
+    },
+    {
+      "source": "108.162.194.55",
+      "target": "55.194.162.108.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "source": "172.64.34.55",
+      "target": "55.34.64.172.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "source": "162.159.38.55",
+      "target": "55.38.159.162.in-addr.arpa",
+      "type": "AFFILIATE_INTERNET_NAME_UNRESOLVED"
+    },
+    {
+      "source": "Protect, LLC",
+      "target": "5601 S. 59TH STREET SUITE C, LINCOLN, US-NE, US, 68516",
+      "type": "PHYSICAL_ADDRESS"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "7cup (Category: social)\nhttps://www.7cups.com/@helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "::ffff:104.21.112.1",
+      "type": "IPV6_ADDRESS"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "::ffff:104.21.16.1",
+      "type": "IPV6_ADDRESS"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "::ffff:104.21.32.1",
+      "type": "IPV6_ADDRESS"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "::ffff:104.21.48.1",
+      "type": "IPV6_ADDRESS"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "::ffff:104.21.64.1",
+      "type": "IPV6_ADDRESS"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "::ffff:104.21.80.1",
+      "type": "IPV6_ADDRESS"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "::ffff:104.21.96.1",
+      "type": "IPV6_ADDRESS"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "::ffff:108.162.194.55",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "source": "jaxson.ns.cloudflare.com",
+      "target": "::ffff:108.162.195.221",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "::ffff:162.159.38.55",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "source": "jaxson.ns.cloudflare.com",
+      "target": "::ffff:162.159.44.221",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "::ffff:172.64.34.55",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "source": "jaxson.ns.cloudflare.com",
+      "target": "::ffff:172.64.35.221",
+      "type": "AFFILIATE_IPV6_ADDRESS"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta htt...",
+      "type": "TARGET_WEB_CONTENT"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Ameblo (Category: blog)\nhttps://ameblo.jp/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "ArtBreeder (Category: art)\nhttps://www.artbreeder.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Bandcamp (Category: music)\nhttps://bandcamp.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Blogspot (Category: blog)\nhttp://helveticaneue.blogspot.com",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Bluesky 2 (Category: social)\nhttps://bsky.app/profile/helveticaneue.bsky.social",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta htt...",
+      "target": "CILN9PFNHTUVBXMYTXNJNFFXGXMH",
+      "type": "IBAN_NUMBER"
+    },
+    {
+      "source": "Toronto, Ontario, ON, Canada, CA",
+      "target": "Canada",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Chess.com (Category: gaming)\nhttps://www.chess.com/member/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "104.16.0.0/12",
+      "target": "CleanTalk Spam List [104.16.0.0/12]\nhttps://iplists.firehol.org/files/cleantalk_...",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.16.0.0/12",
+      "target": "CleanTalk Spam List [104.16.0.0/12]\nhttps://iplists.firehol.org/files/cleantalk_...",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "Cloud computing",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "Cloudflare Inc: https://www.cloudflare.com/",
+      "type": "PROVIDER_HOSTING"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "Cloudflare Inc: https://www.cloudflare.com/",
+      "type": "PROVIDER_HOSTING"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "Cloudflare Inc: https://www.cloudflare.com/",
+      "type": "PROVIDER_HOSTING"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "Cloudflare Inc: https://www.cloudflare.com/",
+      "type": "PROVIDER_HOSTING"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "Cloudflare Inc: https://www.cloudflare.com/",
+      "type": "PROVIDER_HOSTING"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "Cloudflare Inc: https://www.cloudflare.com/",
+      "type": "PROVIDER_HOSTING"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "Cloudflare Inc: https://www.cloudflare.com/",
+      "type": "PROVIDER_HOSTING"
+    },
+    {
+      "source": "   Domain Name: CLOUDFLARE.COM\r\n   Registry Domain ID: 1542998887_DOMAIN_COM-VRS...",
+      "target": "Cloudflare, Inc.",
+      "type": "AFFILIATE_COMPANY_NAME"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "Cloudflare, Inc., is an American company that provides content delivery network ...",
+      "type": "AFFILIATE_DESCRIPTION_ABSTRACT"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Community Adobe (Category: tech)\nhttps://community.adobe.com/t5/forums/searchpag...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "DeviantArt (Category: images)\nhttps://www.deviantart.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Disqus (Category: social)\nhttps://disqus.com/by/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "grayscale-group.online",
+      "target": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "type": "DOMAIN_WHOIS"
+    },
+    {
+      "source": "grayscale-group.io",
+      "target": "Domain Name: grayscale-group.io\r\nRegistry Domain ID: 8199f44c050f46c1a27391a059c...",
+      "type": "SIMILARDOMAIN_WHOIS"
+    },
+    {
+      "source": "helvetica.neue",
+      "target": "Duolingo (Category: hobby)\nhttps://www.duolingo.com/profile/helvetica.neue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Duolingo (Category: hobby)\nhttps://www.duolingo.com/profile/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "Freedom of speech in the United States",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "GOG (Category: gaming)\nhttps://www.gog.com/u/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "GitHub (Category: coding)\nhttps://github.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Habbo.com.br (Category: gaming)\nhttps://www.habbo.com.br/profile/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta htt...",
+      "target": "Helvetica Neue",
+      "type": "HUMAN_NAME"
+    },
+    {
+      "source": "grayscale-group.online",
+      "target": "Hostinger Operations, UAB",
+      "type": "DOMAIN_REGISTRAR"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "IFTTT (Category: misc)\nhttps://ifttt.com/p/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helvetica.neue",
+      "target": "Internet Archive User Search (Category: misc)\nhttps://archive.org/search.php?que...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Internet Archive User Search (Category: misc)\nhttps://archive.org/search.php?que...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "Internet security",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "source": "CILN9PFNHTUVBXMYTXNJNFFXGXMH",
+      "target": "Ivory Coast",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Kongregate (Category: gaming)\nhttps://www.kongregate.com/accounts/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Letterboxd (Category: social)\nhttps://letterboxd.com/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Linktree (Category: social)\nhttps://linktr.ee/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "+37064503378",
+      "target": "Lithuania",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "source": "+37068424669",
+      "target": "Lithuania",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "MCName (Minecraft) (Category: gaming)\nhttps://mcname.info/en/search?q=helvetican...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "MCUUID (Minecraft) (Category: gaming)\nhttps://mcuuid.net/?q=helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Naver (Category: social)\nhttps://blog.naver.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Neocities (Category: social)\nhttps://neocities.org/site/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "Networking companies of the United States",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Newgrounds (Category: gaming)\nhttps://helveticaneue.newgrounds.com/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "PhishStats [104.21.112.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "PhishStats [104.21.112.1]",
+      "type": "MALICIOUS_IPADDR"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "PhishStats [104.21.16.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "PhishStats [104.21.16.1]",
+      "type": "MALICIOUS_IPADDR"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "PhishStats [104.21.32.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "PhishStats [104.21.32.1]",
+      "type": "MALICIOUS_IPADDR"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "PhishStats [104.21.48.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "PhishStats [104.21.48.1]",
+      "type": "MALICIOUS_IPADDR"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "PhishStats [104.21.64.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "PhishStats [104.21.64.1]",
+      "type": "MALICIOUS_IPADDR"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "PhishStats [104.21.80.1]",
+      "type": "BLACKLISTED_IPADDR"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "PhishStats [104.21.80.1]",
+      "type": "MALICIOUS_IPADDR"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Pillowfort (Category: social)\nhttps://www.pillowfort.social/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Pinterest (Category: social)\nhttps://www.pinterest.com/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Pornhub Users (Category: xx NSFW xx)\nhttps://www.pornhub.com/users/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Poshmark (Category: shopping)\nhttps://poshmark.com/closet/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "Privacy Protect, LLC",
+      "type": "COMPANY_NAME"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "Protect, LLC",
+      "type": "COMPANY_NAME"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "Reverse proxy",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "source": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta htt...",
+      "target": "Segoe Emoji",
+      "type": "HUMAN_NAME"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Snapchat (Category: social)\nhttps://www.snapchat.com/add/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "SoundCloud (Category: music)\nhttps://soundcloud.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Spotify (Category: music)\nhttps://open.spotify.com/user/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Steam (Category: gaming)\nhttps://steamcommunity.com/id/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "Technology companies based in the San Francisco Bay Area",
+      "type": "AFFILIATE_DESCRIPTION_CATEGORY"
+    },
+    {
+      "source": "+37064503378",
+      "target": "Tele 2",
+      "type": "PROVIDER_TELCO"
+    },
+    {
+      "source": "+37068424669",
+      "target": "Tele 2",
+      "type": "PROVIDER_TELCO"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Telegram (Category: social)\nhttps://t.me/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helvetica.neue",
+      "target": "TikTok (Category: social)\nhttps://www.tiktok.com/@helvetica.neue?lang=en",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "TikTok (Category: social)\nhttps://www.tiktok.com/@helveticaneue?lang=en",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "104.21.96.1",
+      "target": "Toronto, Ontario, ON, Canada, CA",
+      "type": "GEOINFO"
+    },
+    {
+      "source": "104.21.32.1",
+      "target": "Toronto, Ontario, ON, Canada, CA",
+      "type": "GEOINFO"
+    },
+    {
+      "source": "104.21.48.1",
+      "target": "Toronto, Ontario, ON, Canada, CA",
+      "type": "GEOINFO"
+    },
+    {
+      "source": "104.21.64.1",
+      "target": "Toronto, Ontario, ON, Canada, CA",
+      "type": "GEOINFO"
+    },
+    {
+      "source": "104.21.80.1",
+      "target": "Toronto, Ontario, ON, Canada, CA",
+      "type": "GEOINFO"
+    },
+    {
+      "source": "104.21.16.1",
+      "target": "Toronto, Ontario, ON, Canada, CA",
+      "type": "GEOINFO"
+    },
+    {
+      "source": "104.21.112.1",
+      "target": "Toronto, Ontario, ON, Canada, CA",
+      "type": "GEOINFO"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Trello (Category: social)\nhttps://trello.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Twitch (Category: gaming)\nhttps://twitch.tv/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Twitter (Category: social)\nhttps://twitter.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Ultimate Guitar (Category: hobby)\nhttps://www.ultimate-guitar.com/u/helveticaneu...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "+18022274003",
+      "target": "United States",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "source": "cloudflare.com",
+      "target": "United States",
+      "type": "COUNTRY_NAME"
+    },
+    {
+      "source": "104.16.0.0/12",
+      "target": "VoIP Blacklist (VoIPBL) [104.16.0.0/12]\nhttps://voipbl.org/check/?ip=104.16.0.0/...",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.16.0.0/12",
+      "target": "VoIP Blacklist (VoIPBL) [104.16.0.0/12]\nhttps://voipbl.org/check/?ip=104.16.0.0/...",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.0.0/19",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.0.0/19]\nhttps://voipbl.org/check/?ip=104.21.0.0/...",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.0.0/19",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.0.0/19]\nhttps://voipbl.org/check/?ip=104.21.0.0/...",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.16.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.16.0/20]\nhttps://voipbl.org/check/?ip=104.21.16....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.16.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.16.0/20]\nhttps://voipbl.org/check/?ip=104.21.16....",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.32.0/19",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.32.0/19]\nhttps://voipbl.org/check/?ip=104.21.32....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.32.0/19",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.32.0/19]\nhttps://voipbl.org/check/?ip=104.21.32....",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.32.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.32.0/20]\nhttps://voipbl.org/check/?ip=104.21.32....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.32.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.32.0/20]\nhttps://voipbl.org/check/?ip=104.21.32....",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.48.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.48.0/20]\nhttps://voipbl.org/check/?ip=104.21.48....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.48.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.48.0/20]\nhttps://voipbl.org/check/?ip=104.21.48....",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.64.0/19",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.64.0/19]\nhttps://voipbl.org/check/?ip=104.21.64....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.64.0/19",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.64.0/19]\nhttps://voipbl.org/check/?ip=104.21.64....",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.64.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.64.0/20]\nhttps://voipbl.org/check/?ip=104.21.64....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.64.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.64.0/20]\nhttps://voipbl.org/check/?ip=104.21.64....",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.80.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.80.0/20]\nhttps://voipbl.org/check/?ip=104.21.80....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.80.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.80.0/20]\nhttps://voipbl.org/check/?ip=104.21.80....",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.96.0/19",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.96.0/19]\nhttps://voipbl.org/check/?ip=104.21.96....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.96.0/19",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.96.0/19]\nhttps://voipbl.org/check/?ip=104.21.96....",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "104.21.96.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.96.0/20]\nhttps://voipbl.org/check/?ip=104.21.96....",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.21.96.0/20",
+      "target": "VoIP Blacklist (VoIPBL) [104.21.96.0/20]\nhttps://voipbl.org/check/?ip=104.21.96....",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "Wattpad (Category: social)\nhttps://www.wattpad.com/user/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "XVIDEOS-profiles (Category: xx NSFW xx)\nhttps://www.xvideos.com/profiles/helveti...",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "{'prefix': '104.21.112.0/20', 'ip': '104.21.112.0', 'cidr': 20, 'asns': [{'asn':...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.32.0/20', 'ip': '104.21.32.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.16.0.0/12', 'ip': '104.16.0.0', 'cidr': 12, 'asns': [{'asn': 133...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.32.0/19', 'ip': '104.21.32.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.64.0/20', 'ip': '104.21.64.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'asn': 13335, 'name': 'CLOUDFLARENET', 'description_short': 'Cloudflare, Inc.',...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.96.0/20', 'ip': '104.21.96.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.0.0/19', 'ip': '104.21.0.0', 'cidr': 19, 'asns': [{'asn': 133...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "[{'id': 11107680, 'url': 'http://worker-orange-paper-4995.ligotat737.workers.dev...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.16.0/20', 'ip': '104.21.16.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.64.0/19', 'ip': '104.21.64.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.80.0/20', 'ip': '104.21.80.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.96.0/19', 'ip': '104.21.96.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.48.0/20', 'ip': '104.21.48.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "[{'id': 11104125, 'url': 'http://informed.deliveryfz.top/l', 'ip': '104.21.16.1'...",
+      "target": "abuse@deliveryfz.top",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "abuse@hostinger.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "[{'id': 11109928, 'url': 'https://hyue8.cyou/0je9s', 'ip': '104.21.48.1', 'count...",
+      "target": "abuse@hyue8.cyou",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "[{'id': 11104125, 'url': 'http://informed.deliveryfz.top/l', 'ip': '104.21.16.1'...",
+      "target": "abuse@informed.deliveryfz.top",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "[{'id': 11104139, 'url': 'http://morningstar-epb.pages.dev/', 'ip': '104.21.80.1...",
+      "target": "abuse@morningstar-epb.pages.dev",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "[{'id': 11104139, 'url': 'http://morningstar-epb.pages.dev/', 'ip': '104.21.80.1...",
+      "target": "abuse@pages.dev",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "Domain Name: grayscale-group.io\r\nRegistry Domain ID: 8199f44c050f46c1a27391a059c...",
+      "target": "abuse@registrar.eu",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "[{'id': 11109085, 'url': 'http://setshinobi.vip/', 'ip': '104.21.112.1', 'countr...",
+      "target": "abuse@setshinobi.vip",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "[{'id': 11111222, 'url': 'https://workuzbekiston24.com/', 'ip': '104.21.32.1', '...",
+      "target": "abuse@workuzbekiston24.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "162.159.38.55",
+      "target": "aliza.ns.cloudflare.com",
+      "type": "AFFILIATE_INTERNET_NAME"
+    },
+    {
+      "source": "172.64.34.55",
+      "target": "aliza.ns.cloudflare.com",
+      "type": "AFFILIATE_INTERNET_NAME"
+    },
+    {
+      "source": "grayscale-group.online",
+      "target": "aliza.ns.cloudflare.com",
+      "type": "PROVIDER_DNS"
+    },
+    {
+      "source": "grayscale-group.online",
+      "target": "aliza.ns.cloudflare.com",
+      "type": "AFFILIATE_INTERNET_NAME"
+    },
+    {
+      "source": "108.162.194.55",
+      "target": "aliza.ns.cloudflare.com",
+      "type": "AFFILIATE_INTERNET_NAME"
+    },
+    {
+      "source": "104.16.0.0/12",
+      "target": "blocklist.de [104.16.0.0/12]\nhttps://lists.blocklist.de/lists/all.txt",
+      "type": "MALICIOUS_SUBNET"
+    },
+    {
+      "source": "104.16.0.0/12",
+      "target": "blocklist.de [104.16.0.0/12]\nhttps://lists.blocklist.de/lists/all.txt",
+      "type": "BLACKLISTED_SUBNET"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "cf-chl-out: n0MbJPU6u9NcRWw0tNz2zRk+7284m8aAwLQ8532gW7LSHnMGOApBcYj2gO1iV969kd72...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "cf-mitigated: challenge",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "cf-ray: 9258ed63488fe280-MRS",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "cloudflare",
+      "type": "WEBSERVER_BANNER"
+    },
+    {
+      "source": "jaxson.ns.cloudflare.com",
+      "target": "cloudflare.com",
+      "type": "AFFILIATE_DOMAIN_NAME"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "cloudflare.com",
+      "type": "AFFILIATE_DOMAIN_NAME"
+    },
+    {
+      "source": "aliza.ns.cloudflare.com",
+      "target": "cloudflare.com",
+      "type": "AFFILIATE_DOMAIN_NAME"
+    },
+    {
+      "source": "Domain Name: GRAYSCALE-GROUP.ONLINE\r\nRegistry Domain ID: D438398430-CNIC\r\nRegist...",
+      "target": "contact@privacyprotect.org",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-U...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "cross-origin-embedder-policy: require-corp",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "cross-origin-opener-policy: same-origin",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "cross-origin-resource-policy: same-origin",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "diigo (Category: images)\nhttps://www.diigo.com/profile/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helvetica.neue",
+      "target": "eBay (Category: shopping)\nhttps://www.ebay.com/usr/helvetica.neue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "eBay (Category: shopping)\nhttps://www.ebay.com/usr/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "grayscale-group.io",
+      "type": "SIMILARDOMAIN"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "grayscale-group.online",
+      "type": "DOMAIN_NAME_PARENT"
+    },
+    {
+      "source": "grayscale-group.online",
+      "target": "grayscale-group.online. 14400 IN NS aliza.ns.cloudflare.com.\ngrayscale-group.onl...",
+      "type": "RAW_DNS_RECORDS"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "grayscale-group.vip",
+      "type": "SIMILARDOMAIN"
+    },
+    {
+      "source": "Helvetica Neue",
+      "target": "helvetica.neue",
+      "type": "USERNAME"
+    },
+    {
+      "source": "Helvetica Neue",
+      "target": "helveticaneue",
+      "type": "USERNAME"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "http://system.grayscale-group.online",
+      "type": "LINKED_URL_INTERNAL"
+    },
+    {
+      "source": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta htt...",
+      "target": "http://system.grayscale-group.online",
+      "type": "URL_STATIC"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "https://system.grayscale-group.online/",
+      "type": "LINKED_URL_INTERNAL"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "hugging_face (Category: tech)\nhttps://huggingface.co/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "imgur (Category: images)\nhttps://imgur.com/user/helveticaneue/about",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "172.64.35.221",
+      "target": "jaxson.ns.cloudflare.com",
+      "type": "AFFILIATE_INTERNET_NAME"
+    },
+    {
+      "source": "108.162.195.221",
+      "target": "jaxson.ns.cloudflare.com",
+      "type": "AFFILIATE_INTERNET_NAME"
+    },
+    {
+      "source": "grayscale-group.online",
+      "target": "jaxson.ns.cloudflare.com",
+      "type": "PROVIDER_DNS"
+    },
+    {
+      "source": "grayscale-group.online",
+      "target": "jaxson.ns.cloudflare.com",
+      "type": "AFFILIATE_INTERNET_NAME"
+    },
+    {
+      "source": "162.159.44.221",
+      "target": "jaxson.ns.cloudflare.com",
+      "type": "AFFILIATE_INTERNET_NAME"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "kaggle (Category: coding)\nhttps://www.kaggle.com/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "kik (Category: social)\nhttps://kik.me/helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "nel: {\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "{'prefix': '104.21.112.0/20', 'ip': '104.21.112.0', 'cidr': 20, 'asns': [{'asn':...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.32.0/20', 'ip': '104.21.32.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.16.0.0/12', 'ip': '104.16.0.0', 'cidr': 12, 'asns': [{'asn': 133...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.32.0/19', 'ip': '104.21.32.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.64.0/20', 'ip': '104.21.64.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'asn': 13335, 'name': 'CLOUDFLARENET', 'description_short': 'Cloudflare, Inc.',...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.96.0/20', 'ip': '104.21.96.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.0.0/19', 'ip': '104.21.0.0', 'cidr': 19, 'asns': [{'asn': 133...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.16.0/20', 'ip': '104.21.16.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.64.0/19', 'ip': '104.21.64.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.80.0/20', 'ip': '104.21.80.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.96.0/19', 'ip': '104.21.96.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.48.0/20', 'ip': '104.21.48.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "noc@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "origin-agent-cluster: ?1",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "palnet (Category: social)\nhttps://www.palnet.io/@helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "permissions-policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),cl...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "referrer-policy: same-origin",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "   Domain Name: CLOUDFLARE.COM\r\n   Registry Domain ID: 1542998887_DOMAIN_COM-VRS...",
+      "target": "registrar-abuse@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "report-to: {\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=T4...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "{'prefix': '104.21.112.0/20', 'ip': '104.21.112.0', 'cidr': 20, 'asns': [{'asn':...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.32.0/20', 'ip': '104.21.32.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.16.0.0/12', 'ip': '104.16.0.0', 'cidr': 12, 'asns': [{'asn': 133...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.32.0/19', 'ip': '104.21.32.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.64.0/20', 'ip': '104.21.64.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'asn': 13335, 'name': 'CLOUDFLARENET', 'description_short': 'Cloudflare, Inc.',...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.96.0/20', 'ip': '104.21.96.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.0.0/19', 'ip': '104.21.0.0', 'cidr': 19, 'asns': [{'asn': 133...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.16.0/20', 'ip': '104.21.16.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.64.0/19', 'ip': '104.21.64.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.80.0/20', 'ip': '104.21.80.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.96.0/19', 'ip': '104.21.96.0', 'cidr': 19, 'asns': [{'asn': 1...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{'prefix': '104.21.48.0/20', 'ip': '104.21.48.0', 'cidr': 20, 'asns': [{'asn': 1...",
+      "target": "rir@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "scratch (Category: coding)\nhttps://scratch.mit.edu/users/helveticaneue/",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "Segoe Emoji",
+      "target": "segoe.emoji",
+      "type": "USERNAME"
+    },
+    {
+      "source": "Segoe Emoji",
+      "target": "segoeemoji",
+      "type": "USERNAME"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "server-timing: chlray;desc=\"9258ed63488fe280\", cfL4;desc=\"?proto=TCP&rtt=6716&mi...",
+      "type": "WEBSERVER_STRANGEHEADER"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "system.grayscale-group.online",
+      "type": "INTERNET_NAME"
+    },
+    {
+      "source": "system.grayscale-group.online",
+      "target": "text/html;charset=utf-8",
+      "type": "TARGET_WEB_CONTENT_TYPE"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "tumblr (Category: images)\nhttps://helveticaneue.tumblr.com",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "segoe.emoji",
+      "target": "tumblr (Category: images)\nhttps://segoe.emoji.tumblr.com",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "helveticaneue",
+      "target": "unsplash (Category: images)\nhttps://unsplash.com/@helveticaneue",
+      "type": "ACCOUNT_EXTERNAL_OWNED"
+    },
+    {
+      "source": "[{'id': 11107680, 'url': 'http://worker-orange-paper-4995.ligotat737.workers.dev...",
+      "target": "workers-product@cloudflare.com",
+      "type": "AFFILIATE_EMAILADDR"
+    },
+    {
+      "source": "{\"date\": \"Mon, 24 Mar 2025 20:30:36 GMT\", \"content-type\": \"text/html; charset=UT...",
+      "target": "x-content-options: nosniff",
+      "type": "WEBSERVER_STRANGEHEADER"
+    }
+  ]
+}
